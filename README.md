@@ -1,2 +1,5 @@
 # hello-world
-Learning 
+
+Hello! 
+I'm Julia.
+This is amazing! 
